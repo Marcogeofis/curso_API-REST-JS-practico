@@ -1,0 +1,19 @@
+{
+  "name": "curso_api-rest-js-practico",
+  "version": "1.0.0",
+  "description": "Curso práctico de consumo de API REST con javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcogeofis/curso_API-REST-JS-practico.git"
+  },
+  "author": "Marco Antonio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marcogeofis/curso_API-REST-JS-practico/issues"
+  },
+  "homepage": "https://github.com/Marcogeofis/curso_API-REST-JS-practico#readme"
+}
